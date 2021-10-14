@@ -1,0 +1,31 @@
+name: Request Removal of Brand
+description: Request an existing brand to be removed.
+title: "Remove: "
+labels: [Brand Removal]
+body:
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: "Before submitting a removal request, please confirm the following:"
+      options:
+        - label: I have [searched all issues](https://github.com/Pictogrammers/brand-icons/issues?q=is%3Aissue) to make sure there isn't an existing removal request for this brand.
+          required: true
+
+  - type: input
+    attributes:
+      label: Brand Name
+      placeholder: "e.g. Pictogrammers"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Removal Reason
+      description: |
+        - If you are the brand owner, please provide information supporting your affiliation.
+        - If the brand no longer exists, please provide additional information
+        - If the brand should be removed for another reason, explain why.
+      placeholder: >-
+        e.g. Acme Corporation has announced they have discontinued the brand.
+    validations:
+      required: true

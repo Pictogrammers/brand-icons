@@ -1,0 +1,34 @@
+name: Request Update of Existing Brand
+description: Request an existing brand to be updated.
+labels: [Brand Update]
+body:
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: "Before submitting a new request, please confirm the following:"
+      options:
+        - label: I have [searched all issues](https://github.com/Pictogrammers/brand-icons/issues?q=is%3Aissue) to make sure there isn't an existing update request for this brand.
+          required: true
+  - type: input
+    id: name
+    attributes:
+      label: Brand Name
+      description: Please provide the name of the brand.
+      placeholder: e.g. Pictogrammers
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Official Brand Guidelines
+      description: >-
+        Most brands will publish branding guidelines, resources, images, etc. Please search for these resources and share any information relevant here. If you are unable to find any resources, please type "none".
+      placeholder: |
+        Example:
+        Brand Guidelines can be found at https://pictogrammers.com/brand-guidelines/
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Other Comments
+      description: |
+        What's changed that merits an update of this brand?

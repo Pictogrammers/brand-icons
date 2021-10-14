@@ -1,0 +1,56 @@
+name: Request Addition of Brand Icon
+description: Request a brand to be added to the library.
+labels: [Brand Addition]
+body:
+    - type: markdown
+    attributes:
+      value: >-
+        # Thank you for requesting a new brand!
+
+        Here are some things to consider before submitting your request:
+
+          - We will not add non-brand icons to this library.
+          - Not all brand icons can/will be added. We vet each brand icon directly with the brand owner.
+            - The brand's license must explicitly allow redistribution _or_
+            - We must recieve written permission from the brand owner allowing its inclusion.
+
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: "Before submitting a new request, please confirm the following:"
+      options:
+        - label: I have [searched all issues](https://github.com/Pictogrammers/brand-icons/issues?q=is%3Aissue) to make sure there isn't an existing request for this brand.
+          required: true
+        # - label: I have [searched the current library](TBD) to make sure the brand isn't already included.
+        #   required: true
+  - type: input
+    id: name
+    attributes:
+      label: Brand Name
+      description: Please provide the full legal name of the brand.
+      placeholder: e.g. Pictogrammers
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website
+      description: Provide the URL to the brand's website. If they do not have a website, please type "none".
+      placeholder: e.g. https://www.pictogrammers.com
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Official Brand Guidelines
+      description: >-
+        Most brands will publish branding guidelines, resources, images, etc. Please search for these resources and share any information relevant here. If you are unable to find any resources, please type "none".
+      placeholder: |
+        Example:
+        Brand Guidelines can be found at https://pictogrammers.com/brand-guidelines/
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Other Comments
+      description: |
+        Is there anything else that you would like to share with us?
