@@ -23,7 +23,7 @@ body:
       label: Removal Reason
       description: |
         - If you are the brand owner, please provide information supporting your affiliation.
-        - If the brand no longer exists, please provide additional information
+        - If the brand no longer exists, please provide additional information.
         - If the brand should be removed for another reason, explain why.
       placeholder: >-
         e.g. Acme Corporation has announced they have discontinued the brand.
