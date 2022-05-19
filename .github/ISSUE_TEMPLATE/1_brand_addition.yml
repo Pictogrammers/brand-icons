@@ -2,7 +2,7 @@ name: Request Addition of Brand Icon
 description: Request a brand to be added to the library.
 labels: [Brand Addition]
 body:
-    - type: markdown
+  - type: markdown
     attributes:
       value: >-
         # Thank you for requesting a new brand!
