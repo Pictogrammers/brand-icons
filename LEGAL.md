@@ -8,7 +8,7 @@ The Pictogrammers Icon Group provides license, copyright, and trademark informat
 
 If you discover a brand license that has changed and does not match the information we have on file, please [open an issue](https://github.com/Pictogrammers/brand-icons/issues/new?assignees=&labels=Brand+Update&template=2_brand_update.yml). We will verify and update were appropriate.
 
-The Pictogrammers Icon Group cannot be held responsible for any use or misuse of any brand assets offerred in our library by our users.
+The Pictogrammers Icon Group cannot be held responsible for any use or misuse of any brand assets offered in our library by our users.
 
 # Brand Guidelines
 
