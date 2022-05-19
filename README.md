@@ -16,4 +16,4 @@ Every brand icon included in our library has been given permission by the brand 
 
 ## Where can I see the licenses?
 
-Everytime we release, we sync up all the brand licenses in our [LICENSE](./LICENSE.md) file.
+Everytime we add a new icon, we sync up all the brand licenses in our [LICENSE](./LICENSE.md) file.
