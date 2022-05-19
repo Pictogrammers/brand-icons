@@ -7,4 +7,5 @@ If any information in this LICENSE is outdated or incorrect, please raise an iss
 
 ## pictogrammers
 The Pictogrammers monogram is released under the CC BY-NC-ND 4.0 license: <https://creativecommons.org/licenses/by-nc-nd/4.0/>
+
 **Brand Guidelines:** <https://pictogrammers.com/brand-guidelines/>
