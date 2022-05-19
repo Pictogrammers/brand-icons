@@ -6,6 +6,9 @@ If any information in this LICENSE is outdated or incorrect, please raise an iss
 
 ---
 
+## git
+The Git logo by [Jason Long](https://twitter.com/jasonlong) is licensed under the Creative Commons Attribution 3.0 Unported License: <https://creativecommons.org/licenses/by/3.0/>.
+
 ## pictogrammers
 The Pictogrammers monogram is released under the CC BY-NC-ND 4.0 license: <https://creativecommons.org/licenses/by-nc-nd/4.0/>
 
