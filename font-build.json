@@ -1,0 +1,36 @@
+{
+    "id": "c9d5dcff-aa64-11ec-89b8-1209440c2141",
+    "packageId": "16a00a9f-aa64-11ec-89b8-1209440c2141",
+    "name": "Pictogrammers Brands",
+    "description": "Brands.",
+    "icon": "M0,0H8V3H18V0H26V8H23V18H26V26H18V23H8V21H18V18H21V8H18V5H8V8H5V18H8V26H0V18H3V8H0V0M2,2V6H6V2H2M2,20V24H6V20H2M20,2V6H24V2H20M20,20V24H24V20H20Z",
+    "prefix": "brands",
+    "fileName": "pictogrammers-brands",
+    "fontName": "Pictogrammers Brands",
+    "fontFamily": "Pictogrammers Brands",
+    "fontWeight": "normal",
+    "website": "Pictogrammers.com",
+    "npmFont": "@pictogramers\/brands-font",
+    "npmJS": "@pictogramers\/brands-js",
+    "npmSVG": "@pictogramers\/brands-svg",
+    "color": {
+        "header": "2196F3",
+        "link": "E91E63",
+        "new": "3C90BE",
+        "deprecated": "BE3C3C"
+    },
+    "style": "",
+    "price": null,
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 1
+    },
+    "date": {
+        "year": 2022,
+        "month": 4,
+        "day": 19,
+        "hour": 3,
+        "minute": 26
+    }
+}
