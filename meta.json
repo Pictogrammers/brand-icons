@@ -1,5 +1,13 @@
 [
     {
+        "id": "308B8075-AB7C-46B4-A532-26A50872BC20",
+        "name": "esp-home",
+        "codepoint": "F0004",
+        "aliases": [],
+        "version": "1.0.0",
+        "license": "The ESPHome logo is trademarked by [Nabu Casa](https:\/\/www.nabucasa.com\/)."
+    },
+    {
         "id": "C7CD53E6-A89C-444F-B1A5-D9C386FD7AC6",
         "name": "git",
         "codepoint": "F0002",

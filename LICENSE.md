@@ -6,6 +6,9 @@ If any information in this LICENSE is outdated or incorrect, please raise an iss
 
 ---
 
+## esp-home
+The ESPHome logo is trademarked by [Nabu Casa](https://www.nabucasa.com/).
+
 ## git
 The Git logo by [Jason Long](https://twitter.com/jasonlong) is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
 
