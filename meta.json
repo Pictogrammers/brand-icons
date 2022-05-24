@@ -8,6 +8,14 @@
         "license": "The Git logo by [Jason Long](https:\/\/twitter.com\/jasonlong) is licensed under the [Creative Commons Attribution 3.0 Unported License](https:\/\/creativecommons.org\/licenses\/by\/3.0\/)."
     },
     {
+        "id": "5F8C4B83-1761-460B-B188-AB13457D597D",
+        "name": "home-assistant",
+        "codepoint": "F0003",
+        "aliases": [],
+        "version": "1.0.0",
+        "license": "The Home Assistant logo is copyrighted by [Paulus Schoutsen](https:\/\/github.com\/balloob). Usage of the Home Assistant logo must follow their [branding guidelines](https:\/\/design.home-assistant.io\/#brand\/logo)."
+    },
+    {
         "id": "a191d28e-9e48-4c2a-a6e3-9a46d575bb6b",
         "name": "pictogrammers",
         "codepoint": "F0001",

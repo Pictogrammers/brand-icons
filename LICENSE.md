@@ -9,6 +9,9 @@ If any information in this LICENSE is outdated or incorrect, please raise an iss
 ## git
 The Git logo by [Jason Long](https://twitter.com/jasonlong) is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
 
+## home-assistant
+The Home Assistant logo is copyrighted by [Paulus Schoutsen](https://github.com/balloob). Usage of the Home Assistant logo must follow their [branding guidelines](https://design.home-assistant.io/#brand/logo).
+
 ## pictogrammers
 The Pictogrammers monogram is released under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
