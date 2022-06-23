@@ -30,5 +30,13 @@
         "aliases": [],
         "version": "0.0.10",
         "license": "The Pictogrammers monogram is released under the [CC BY-NC-ND 4.0 License](https:\/\/creativecommons.org\/licenses\/by-nc-nd\/4.0\/).\n\n**Brand Guidelines:** <https:\/\/pictogrammers.com\/brand-guidelines\/>"
+    },
+    {
+        "id": "D9387CEF-A10D-412E-BF74-AF4FEDE78C0F",
+        "name": "zend-framework",
+        "codepoint": "F0005",
+        "aliases": [],
+        "version": "1.0.0",
+        "license": "The Zend Framework logo is released under the [CC BY-NC 3.0 License](https:\/\/creativecommons.org\/licenses\/by-nc\/3.0\/)."
     }
 ]

@@ -19,3 +19,6 @@ The Home Assistant logo is copyrighted by [Paulus Schoutsen](https://github.com/
 The Pictogrammers monogram is released under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 **Brand Guidelines:** <https://pictogrammers.com/brand-guidelines/>
+
+## zend-framework
+The Zend Framework logo is released under the [CC BY-NC 3.0 License](https://creativecommons.org/licenses/by-nc/3.0/).
